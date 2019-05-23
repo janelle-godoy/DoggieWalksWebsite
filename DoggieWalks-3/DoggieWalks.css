@@ -618,7 +618,7 @@ input[type=submit] {
     cursor: pointer;
     width: 100px;
     height: 30px;
-    margin-top: 7px;
+    margin-top: 0px;
     margin-left: 40%;
 }
 
